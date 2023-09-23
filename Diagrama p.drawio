@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T18:42:58.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Agency/95.8.1287.88" version="21.6.6" etag="ruzZSBKDjRKoG2iuCWve" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T18:44:06.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Agency/95.8.1287.88" etag="4SgeW-RWqGP7W6_Asobi" version="21.6.6" type="github">
   <diagram name="Página-1" id="EEYyMAJt2SIMja0gb9dN">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8t6mjlYEWFllAWJ6awrj-1" value="usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
